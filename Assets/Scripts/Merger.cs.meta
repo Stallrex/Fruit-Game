@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad77d1e82e436084b818b2d90b61504a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pop: {fileID: 8300000, guid: dc93b53dc35011c4998c86833adac57d, type: 3}
+  - strawberry: {fileID: 3322192544791504589, guid: 7c916587129187940890febc2bd5d732, type: 3}
+  - grape: {fileID: 3322192544791504589, guid: a8efce6e3bcea9d4ab8e66450d9c9d62, type: 3}
+  - orange: {fileID: 3322192544791504589, guid: f4a9ea44e630b6a4b9d43151baee65ff, type: 3}
+  - apple: {fileID: 3322192544791504589, guid: 227b92699951eae449ad4c8e0f2350ed, type: 3}
+  - tomato: {fileID: 3322192544791504589, guid: 8d6bee1b30c39d8419b03b8da74b19f8, type: 3}
+  - melon: {fileID: 3322192544791504589, guid: adbca96a8da9b434e9c5b47b15c8bafb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
